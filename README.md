@@ -38,4 +38,9 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thalia%20Barbosa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thalia-de-lara-barbosa-77985b38a/)
+
+[![Email](https://img.shields.io/badge/Email-IFSC-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalia.b13@aluno.ifsc.edu.br)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thalia%20Barbosa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalia-de-lara-barbosa-77985b38a/)
+
+[![Lattes](https://img.shields.io/badge/Currículo%20Lattes-CNPq-green?style=for-the-badge)](https://lattes.cnpq.br/7836676595764908)
