@@ -2,21 +2,27 @@
 
 ## 💻 Dev em evolução
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- ☕ Estudando Java, HTML, CSS e JavaScript.
-- 🥋 Lutadora de jiu-jitsu — disciplina e resiliência fazem parte da minha rotina.
-- 🚀 Construindo minha jornada na programação um commit por vez.
 
-> "Disciplina no tatame, foco no código."
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
+
+- ☕ Estudando Java, HTML, CSS e JavaScript.
+- 🌐 Iniciando estudos em Redes de Computadores.
+- 🥋 Como uma boa lutadora de jiu-jitsu, adoro desafios. 
+Disciplina e Resiliência fazem parte da minha rotina — 
+e é assim que venho me encontrando no mundo da **programação**.
 
 ---
 
 ## 🚀 Tecnologias
 
+
+
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Redes](https://img.shields.io/badge/Redes%20de%20Computadores-Informática-lightgrey?style=for-the-badge&logo=cisco)
+
 
 ---
 
