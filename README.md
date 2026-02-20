@@ -20,6 +20,13 @@
 
 ---
 
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thaliab13-web&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaliab13-web&layout=compact&theme=tokyonight)
+
+
 
 ---
 
